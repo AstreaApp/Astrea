@@ -6,27 +6,23 @@
     android:enabled="true"
     android:icon="@drawable/ic_action_home"
     android:title="Главная"
-    app:showAsAction="ifRoom"
-    />
+    app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/action_map"
         android:enabled="true"
         android:icon="@drawable/ic_action_map"
         android:title="Карта"
-        app:showAsAction="ifRoom"
-        />
+        app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/action_account"
         android:enabled="true"
         android:icon="@drawable/ic_action_account"
         android:title="Кабинет"
-        app:showAsAction="ifRoom"
-        />
+        app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/action_settings"
         android:enabled="true"
         android:icon="@drawable/ic_action_settings"
         android:title="Настройки"
-        app:showAsAction="ifRoom"
-        />
+        app:showAsAction="ifRoom"/>
 </menu>
